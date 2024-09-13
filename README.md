@@ -18,5 +18,4 @@ Ease of Use: Drag-and-drop interface makes it accessible to users without deep t
 
 Tableau is widely used in various industries for making data-driven decisions and uncovering hidden trends, patterns, and insights.
 
-
 ## Travel Analysis Overview
